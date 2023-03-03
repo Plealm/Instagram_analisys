@@ -28,5 +28,5 @@ Using the free seaborn and matplotlib libraries, bar plots were made on the impr
 
 ### From Home
 
-![Home1](/images/From\ Home.png)
-![Home2](/images/From\ Home1.png)
+![Home1](/images/From\ Home.png](https://github.com/Plealm/Instagram_analisys/blob/main/images/From%20Home.png)
+![Home2](/images/From\ Home1.png](https://github.com/Plealm/Instagram_analisys/blob/main/images/From%20Home1.png)
