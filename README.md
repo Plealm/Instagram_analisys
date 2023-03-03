@@ -27,4 +27,4 @@ This analysis is divided into 5 parts:
 Using the free seaborn and matplotlib libraries, bar plots were made on the impressions of the variables, where it was plotted the mean and median and adjusted the normal distribution parameters: 
 ###From Home
 ![Home1](/images/From\ Home.png)
-![Home1](/images/From\ Home1.png)
+![Home2](/images/From\ Home1.png)
