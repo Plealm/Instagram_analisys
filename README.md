@@ -25,6 +25,8 @@ This analysis is divided into 5 parts:
 ## 1. Visuallization of the Data
 
 Using the free seaborn and matplotlib libraries, bar plots were made on the impressions of the variables, where it was plotted the mean and median and adjusted the normal distribution parameters: 
-###From Home
+
+### From Home
+
 ![Home1](/images/From\ Home.png)
 ![Home2](/images/From\ Home1.png)
